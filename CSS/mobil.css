@@ -1,0 +1,13 @@
+.container{
+    height: fit-content;
+    display: grid; 
+    grid-template-columns: 150px 150px ; 
+    justify-content: space-evenly;
+    gap: 10px;
+    align-content: space-between;
+    background-color: blue;
+}
+div{
+    background-color: palegreen;
+    height: 150px;
+}
